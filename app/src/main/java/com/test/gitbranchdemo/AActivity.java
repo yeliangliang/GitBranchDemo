@@ -11,5 +11,6 @@ public class AActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //1. 新建工程，即master分支，先将其上传到git远程
         //2. 从master分支新建developer分支
+        //3. 提交一次developer分支（为了便于观察）
     }
 }
